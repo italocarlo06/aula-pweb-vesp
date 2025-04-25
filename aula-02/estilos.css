@@ -1,0 +1,17 @@
+p {
+    color:blue
+}
+
+#paragrafo{
+    color: green;
+    font-size: 20px;
+}
+
+.paragrafo{
+    color: purple;
+    font-size: 25px;
+}
+
+h1 {
+    color: red;
+}
